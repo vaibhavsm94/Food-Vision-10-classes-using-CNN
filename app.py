@@ -1,7 +1,6 @@
 import tensorflow as tf
 import tensorflow_hub as hub
 import tensorflow.keras.models
-import keras
 
 from flask import Flask, render_template, request
 
